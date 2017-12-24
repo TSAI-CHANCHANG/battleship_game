@@ -19,4 +19,12 @@
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
+  <ItemGroup>
+    <None Include="wave-gerstner-light.fs">
+      <Filter>源文件</Filter>
+    </None>
+    <None Include="wave-gerstner-light.vs">
+      <Filter>源文件</Filter>
+    </None>
+  </ItemGroup>
 </Project>
