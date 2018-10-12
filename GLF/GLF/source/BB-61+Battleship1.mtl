@@ -1,0 +1,31 @@
+# Exported from 3D Builder
+
+newmtl M_0036_BurlyWood
+Kd 0.870588 0.721569 0.529412
+
+newmtl Color_005
+Kd 0.447059 0.447059 0.447059
+
+newmtl Translucent_Glass_Sky_Reflection
+Kd 0.486275 0.541176 0.709804
+
+newmtl Color_007
+Kd 0.227451 0.227451 0.227451
+
+newmtl Color_004
+Kd 0.556863 0.556863 0.556863
+
+newmtl FrontColor
+Kd 0.890196 0.882353 0.870588
+
+newmtl Color_004
+Kd 0.556863 0.556863 0.556863
+
+newmtl FrontColor
+Kd 0.890196 0.882353 0.870588
+
+newmtl Color_005
+Kd 0.447059 0.447059 0.447059
+
+newmtl Color_007
+Kd 0.227451 0.227451 0.227451
